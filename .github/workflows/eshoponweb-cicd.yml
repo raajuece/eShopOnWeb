@@ -9,7 +9,7 @@ env:
   LOCATION: canadacentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 3470144e-f581-4010-a40c-c7a63ac9f1a0
-  WEBAPP-NAME: devops-webapp-canadacentral-64535718
+  WEBAPP-NAME: devops-webapp-region1-64535718
 
 jobs:
   #Build, test and publish .net web project in repository
